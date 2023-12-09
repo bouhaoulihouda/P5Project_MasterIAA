@@ -1,4 +1,4 @@
-Projet de Systèmes Multi-Agents avec p5.js
+Projet avec p5.js
 
 Suivi de Leader/Serpant
 
