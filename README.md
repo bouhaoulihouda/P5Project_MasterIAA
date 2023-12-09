@@ -33,6 +33,12 @@ Le système de score a été intégré pour renforcer l'aspect interactif du pro
 La fonction avoidHead a été implémentée avec l'objectif de prévenir les véhicules de se positionner devant le leader, déclenchant ainsi un comportement d'évasion lorsqu'ils se trouvent dans la zone frontale du leader. Cependant, des problèmes ont été identifiés dans son fonctionnement initial. Dans le cadre des efforts d'amélioration continue, des ajustements sont en cours pour résoudre ces problèmes et optimiser le comportement d'évasion.
 
 
+***
+Le processus d'amélioration du code a été grandement facilité grâce à vous monsieur et aussi à l'assistance de ChatGPT. 
+
+Je tiens sincèrement à exprimer ma profonde gratitude envers Monsieur Buffa. Grâce à son enseignement attentif et à son soutien constant, j'ai acquis de précieuses compétences et une compréhension approfondie des concepts fondamentaux de la programmation. Ses explications claires et ses conseils éclairés ont été des catalyseurs essentiels dans mon parcours d'apprentissage.
+
+
 *****
 En tant qu'amélioration significative du projet, une attention particulière a été portée à l'expérience utilisateur en intégrant un menu interactif. Ce menu offre une interface conviviale permettant aux utilisateurs de choisir différentes fonctionnalités du projet en cliquant sur des boutons spécifiques.
 
