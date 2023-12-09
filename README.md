@@ -23,9 +23,9 @@ Appuyez sur la touche "e" pour faire apparaître un ennemi.
 Appuyez sur la touche "k" pour déclencher le tir des véhicules.
 Si la touche "h" est pressée, un nouveau véhicule est créé qui va suivre le point ou le cercle rouge
 Si la touche "m" est pressée, dix missiles (Vehicle) sont créés ils vont suivre le leader ou serpent
+
+
 ****Score
-
-
 Le système de score a été intégré pour renforcer l'aspect interactif du programme. Chaque fois qu'un ennemi est éliminé, le score augmente, ajoutant ainsi une dimension de compétition ou de progression. Cette fonctionnalité a été suggérée par un ami, qui a apporté une contribution significative à l'évolution du projet en introduisant l'idée de suivre les performances du joueur à travers un score.
 
 
